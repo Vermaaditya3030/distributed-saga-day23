@@ -1,0 +1,1 @@
+package com.example.orchestrator; import org.springframework.boot.*; import org.springframework.boot.autoconfigure.*; @SpringBootApplication public class OrchestratorApplication { public static void main(String[] a){SpringApplication.run(OrchestratorApplication.class,a);} }
