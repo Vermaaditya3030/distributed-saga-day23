@@ -29,7 +29,7 @@ When a step fails, the orchestrator executes compensating actions and returns `C
 ```bash
 git init && git add . && git commit -m "Day 23 distributed saga platform"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/distributed-saga-day23.git
+git remote add origin https://github.com/Vermaaditya3030/distributed-saga-day23.git
 git push -u origin main
 ```
 
